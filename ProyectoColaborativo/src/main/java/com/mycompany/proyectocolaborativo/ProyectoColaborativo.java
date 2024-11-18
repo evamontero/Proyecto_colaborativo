@@ -9,4 +9,4 @@ package com.mycompany.proyectocolaborativo;
  * @author Evii
  */
 public class ProyectoColaborativo {
-
+}
